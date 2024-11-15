@@ -1,2 +1,3 @@
 # Real-Time-Gesture-Face-Counter
-A robust Python application that detects faces and counts individual fingers using machine vision. The app provides a real-time combined or separate count display, helping users explore gesture and facial tracking capabilities.
+
+A Python-based real-time face and finger counting application utilizing Mediapipe and OpenCV. The program captures live video from a webcam and detects both faces and fingers, providing dynamic counts. Users can toggle between combined and separate modes for displaying face and hand counts. The application leverages Mediapipe's face detection and hand tracking models to identify key facial features and finger positions. Built with a Tkinter interface, it offers easy interaction, allowing users to start and stop the video stream, and seamlessly updates the counts in real-time. This project is ideal for exploring the basics of gesture recognition, computer vision, and GUI development in Python.
